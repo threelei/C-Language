@@ -34,7 +34,7 @@ int main()
 {
     Student A(100,"dot",11);
     Student B(101,"cpp",12);
-
+    cout << "学习使用git"<<endl;
     cout << "HHHHHH" <<endl;
     return 0;
 }
